@@ -14,8 +14,10 @@ I'm planning on adding more options for the video quality.
 Credits to developedbyed
 
 
-![Screenshot 2024-04-22 001329](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/f6f4805d-b777-4b8a-a92f-419a3033773a)
+![Screenshot 2024-04-22 001701](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/58cbd8a7-d339-45c7-892e-8ae7387d83bc)
 
 
+![Screenshot 2024-04-22 001839](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/fbf1fdbc-bcba-40c8-ae58-12bc80ebf46f)
 
-![Screenshot 2024-04-22 001527](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/fa332b18-658d-4a78-b990-f2eeaa6ceb8c)
+
+![Screenshot 2024-04-22 001932](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/2b0cdf18-3ee1-4826-9156-345ebf05bc4b)
