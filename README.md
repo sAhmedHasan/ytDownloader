@@ -1,4 +1,4 @@
-# yt_downloader
+# ytDownloader
 Downloads audio and video from a YouTube link
 
 This project involved creating a YouTube video and audio downloader using Tkinter and the Pytube library. 
