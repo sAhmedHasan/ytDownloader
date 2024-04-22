@@ -9,7 +9,7 @@ The application featured a user interface with input fields for YouTube links, b
 
 I gained practical experience in GUI development, handling external libraries, and implementing download functionalities.
 
-I'm planning on adding more options for the video quality.
+I'm planning on adding options for the video's level of quality.
 
 Credits to developedbyed
 
