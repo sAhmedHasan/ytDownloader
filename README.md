@@ -12,3 +12,10 @@ I gained practical experience in GUI development, handling external libraries, a
 I'm planning on adding more options for the video quality.
 
 Credits to developedbyed
+
+
+![Screenshot 2024-04-22 001329](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/f6f4805d-b777-4b8a-a92f-419a3033773a)
+
+
+
+![Screenshot 2024-04-22 001527](https://github.com/sAhmedHasan/yt_downloader/assets/74529787/fa332b18-658d-4a78-b990-f2eeaa6ceb8c)
